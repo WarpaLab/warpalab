@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm James, but I go by Insane Brain. I am a game developer just working by myself for now. There is this one big project that I'm working on but I'm not that far into development to actually show stuff to actual people. While I was making that I made a smaller game. It's a snake game it's okay but I did  learn some stuff while making that game.</p>
+<p align="left">I'm James, but I go by Insane Brain. I am a game developer just working by myself for now. There is this one big project that I'm working on but I'm not that far into development to actually show stuff to actual people. While I was making that I made a smaller game. It's a snake game it's okay but I did learn some stuff while making that game.</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I started in 2016 when I found Roblox. I saw what people were creating on Roblox and started creating games for myself. I never released them publicly in the first couple years but three years later I made some games public. I started doing more projects and started making frameworks. Roblox gave me a solid foundation to start so I switched to Godot. I switched to Godot because It was more stable. Godot is a solid choice for indie developers.</p>
+<p align="left">I started in 2016 when I found Roblox. I saw what people were creating on Roblox and started creating games for myself. I never released them publicly in the first couple years but three years later I made some games public. I started doing more projects and started making frameworks. Roblox gave me a solid foundation to start so I switched to Godot. I switched to Godot because It was more stable. Godot is a solid choice for indie developers. This was at the time when I switched my operating system to Linux, Roblox wasn't natively on Linux and when Roblox announce age chat.</p>
 
 ###
 
